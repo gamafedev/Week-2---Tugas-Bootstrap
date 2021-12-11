@@ -1,0 +1,7 @@
+/* Header start */
+.jumbotron{
+    background-image: url(../img/bg-jumbotron-header.jpg);
+    background-size: cover;
+    background-position-y: 40%;
+}
+/* end */
